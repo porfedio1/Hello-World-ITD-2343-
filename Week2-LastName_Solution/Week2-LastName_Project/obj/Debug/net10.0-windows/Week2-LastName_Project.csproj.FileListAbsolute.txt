@@ -1,0 +1,16 @@
+C:\Users\porfe\source\repos\Week2-LastName_Solution\Week2-LastName_Project\bin\Debug\net10.0-windows\Week2-LastName_Project.exe
+C:\Users\porfe\source\repos\Week2-LastName_Solution\Week2-LastName_Project\bin\Debug\net10.0-windows\Week2-LastName_Project.deps.json
+C:\Users\porfe\source\repos\Week2-LastName_Solution\Week2-LastName_Project\bin\Debug\net10.0-windows\Week2-LastName_Project.runtimeconfig.json
+C:\Users\porfe\source\repos\Week2-LastName_Solution\Week2-LastName_Project\bin\Debug\net10.0-windows\Week2-LastName_Project.dll
+C:\Users\porfe\source\repos\Week2-LastName_Solution\Week2-LastName_Project\bin\Debug\net10.0-windows\Week2-LastName_Project.pdb
+C:\Users\porfe\source\repos\Week2-LastName_Solution\Week2-LastName_Project\obj\Debug\net10.0-windows\Week2-LastName_Project.csproj.GenerateResource.cache
+C:\Users\porfe\source\repos\Week2-LastName_Solution\Week2-LastName_Project\obj\Debug\net10.0-windows\Week2-LastName_Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\porfe\source\repos\Week2-LastName_Solution\Week2-LastName_Project\obj\Debug\net10.0-windows\Week2-LastName_Project.AssemblyInfoInputs.cache
+C:\Users\porfe\source\repos\Week2-LastName_Solution\Week2-LastName_Project\obj\Debug\net10.0-windows\Week2-LastName_Project.AssemblyInfo.cs
+C:\Users\porfe\source\repos\Week2-LastName_Solution\Week2-LastName_Project\obj\Debug\net10.0-windows\Week2-LastName_Project.csproj.CoreCompileInputs.cache
+C:\Users\porfe\source\repos\Week2-LastName_Solution\Week2-LastName_Project\obj\Debug\net10.0-windows\Week2-LastName_Project.dll
+C:\Users\porfe\source\repos\Week2-LastName_Solution\Week2-LastName_Project\obj\Debug\net10.0-windows\refint\Week2-LastName_Project.dll
+C:\Users\porfe\source\repos\Week2-LastName_Solution\Week2-LastName_Project\obj\Debug\net10.0-windows\Week2-LastName_Project.pdb
+C:\Users\porfe\source\repos\Week2-LastName_Solution\Week2-LastName_Project\obj\Debug\net10.0-windows\Week2-LastName_Project.genruntimeconfig.cache
+C:\Users\porfe\source\repos\Week2-LastName_Solution\Week2-LastName_Project\obj\Debug\net10.0-windows\ref\Week2-LastName_Project.dll
+C:\Users\porfe\source\repos\Week2-LastName_Solution\Week2-LastName_Project\obj\Debug\net10.0-windows\Week2_LastName_Project.frmSpring2026.resources
