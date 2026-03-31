@@ -1,0 +1,16 @@
+C:\Users\porfe\source\repos\Week7-Converter-Gonzales_Solution\Week7-Converter-Gonzales_Project\bin\Debug\net10.0-windows\Week7-Converter-Gonzales_Project.exe
+C:\Users\porfe\source\repos\Week7-Converter-Gonzales_Solution\Week7-Converter-Gonzales_Project\bin\Debug\net10.0-windows\Week7-Converter-Gonzales_Project.deps.json
+C:\Users\porfe\source\repos\Week7-Converter-Gonzales_Solution\Week7-Converter-Gonzales_Project\bin\Debug\net10.0-windows\Week7-Converter-Gonzales_Project.runtimeconfig.json
+C:\Users\porfe\source\repos\Week7-Converter-Gonzales_Solution\Week7-Converter-Gonzales_Project\bin\Debug\net10.0-windows\Week7-Converter-Gonzales_Project.dll
+C:\Users\porfe\source\repos\Week7-Converter-Gonzales_Solution\Week7-Converter-Gonzales_Project\bin\Debug\net10.0-windows\Week7-Converter-Gonzales_Project.pdb
+C:\Users\porfe\source\repos\Week7-Converter-Gonzales_Solution\Week7-Converter-Gonzales_Project\obj\Debug\net10.0-windows\Week7_Converter_Gonzales_Project.frmConverter.resources
+C:\Users\porfe\source\repos\Week7-Converter-Gonzales_Solution\Week7-Converter-Gonzales_Project\obj\Debug\net10.0-windows\Week7-Converter-Gonzales_Project.csproj.GenerateResource.cache
+C:\Users\porfe\source\repos\Week7-Converter-Gonzales_Solution\Week7-Converter-Gonzales_Project\obj\Debug\net10.0-windows\Week7-Converter-Gonzales_Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\porfe\source\repos\Week7-Converter-Gonzales_Solution\Week7-Converter-Gonzales_Project\obj\Debug\net10.0-windows\Week7-Converter-Gonzales_Project.AssemblyInfoInputs.cache
+C:\Users\porfe\source\repos\Week7-Converter-Gonzales_Solution\Week7-Converter-Gonzales_Project\obj\Debug\net10.0-windows\Week7-Converter-Gonzales_Project.AssemblyInfo.cs
+C:\Users\porfe\source\repos\Week7-Converter-Gonzales_Solution\Week7-Converter-Gonzales_Project\obj\Debug\net10.0-windows\Week7-Converter-Gonzales_Project.csproj.CoreCompileInputs.cache
+C:\Users\porfe\source\repos\Week7-Converter-Gonzales_Solution\Week7-Converter-Gonzales_Project\obj\Debug\net10.0-windows\Week7-Converter-Gonzales_Project.dll
+C:\Users\porfe\source\repos\Week7-Converter-Gonzales_Solution\Week7-Converter-Gonzales_Project\obj\Debug\net10.0-windows\refint\Week7-Converter-Gonzales_Project.dll
+C:\Users\porfe\source\repos\Week7-Converter-Gonzales_Solution\Week7-Converter-Gonzales_Project\obj\Debug\net10.0-windows\Week7-Converter-Gonzales_Project.pdb
+C:\Users\porfe\source\repos\Week7-Converter-Gonzales_Solution\Week7-Converter-Gonzales_Project\obj\Debug\net10.0-windows\Week7-Converter-Gonzales_Project.genruntimeconfig.cache
+C:\Users\porfe\source\repos\Week7-Converter-Gonzales_Solution\Week7-Converter-Gonzales_Project\obj\Debug\net10.0-windows\ref\Week7-Converter-Gonzales_Project.dll
