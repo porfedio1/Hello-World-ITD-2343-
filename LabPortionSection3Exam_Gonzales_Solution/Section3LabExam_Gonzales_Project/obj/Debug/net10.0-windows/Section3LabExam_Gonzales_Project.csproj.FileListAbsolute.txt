@@ -1,0 +1,6 @@
+C:\Users\porfe\source\repos\Section3LabExam_Gonzales_Solution\Section3LabExam_Gonzales_Project\obj\Debug\net10.0-windows\Sec3LabExam_Gonzales.frmDecoderWheel.resources
+C:\Users\porfe\source\repos\Section3LabExam_Gonzales_Solution\Section3LabExam_Gonzales_Project\obj\Debug\net10.0-windows\Section3LabExam_Gonzales_Project.csproj.GenerateResource.cache
+C:\Users\porfe\source\repos\Section3LabExam_Gonzales_Solution\Section3LabExam_Gonzales_Project\obj\Debug\net10.0-windows\Section3LabExam_Gonzales_Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\porfe\source\repos\Section3LabExam_Gonzales_Solution\Section3LabExam_Gonzales_Project\obj\Debug\net10.0-windows\Section3LabExam_Gonzales_Project.AssemblyInfoInputs.cache
+C:\Users\porfe\source\repos\Section3LabExam_Gonzales_Solution\Section3LabExam_Gonzales_Project\obj\Debug\net10.0-windows\Section3LabExam_Gonzales_Project.AssemblyInfo.cs
+C:\Users\porfe\source\repos\Section3LabExam_Gonzales_Solution\Section3LabExam_Gonzales_Project\obj\Debug\net10.0-windows\Section3LabExam_Gonzales_Project.csproj.CoreCompileInputs.cache
