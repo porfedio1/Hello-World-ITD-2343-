@@ -1,3 +1,0 @@
-C:\Users\porfe\OneDrive\Desktop\ExamLabPortion_Gonzales\Exam 1 Lab - Teletype Simulation_Gonzles_Solution\Exam 1 Lab - Teletype Simulation_Gonzles_Project\obj\Debug\net10.0-windows\Exam_1_Lab___Teletype_Simulation_Gonzles_Project.Form1.resources
-C:\Users\porfe\OneDrive\Desktop\ExamLabPortion_Gonzales\Exam 1 Lab - Teletype Simulation_Gonzles_Solution\Exam 1 Lab - Teletype Simulation_Gonzles_Project\obj\Debug\net10.0-windows\Exam 1 Lab - Teletype Simulation_Gonzles_Project.csproj.GenerateResource.cache
-C:\Users\porfe\OneDrive\Desktop\ExamLabPortion_Gonzales\Exam 1 Lab - Teletype Simulation_Gonzles_Solution\Exam 1 Lab - Teletype Simulation_Gonzles_Project\obj\Debug\net10.0-windows\Exam 1 Lab - Teletype Simulation_Gonzles_Project.GeneratedMSBuildEditorConfig.editorconfig
