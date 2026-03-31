@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Section2ExamLabProject/1.0.0": {
+        "runtime": {
+          "Section2ExamLabProject.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Section2ExamLabProject/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
