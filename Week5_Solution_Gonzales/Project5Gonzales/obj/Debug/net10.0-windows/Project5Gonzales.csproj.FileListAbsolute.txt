@@ -1,0 +1,16 @@
+C:\Users\porfe\source\repos\Solution5Gonzales\Project5Gonzales\bin\Debug\net10.0-windows\Project5Gonzales.exe
+C:\Users\porfe\source\repos\Solution5Gonzales\Project5Gonzales\bin\Debug\net10.0-windows\Project5Gonzales.deps.json
+C:\Users\porfe\source\repos\Solution5Gonzales\Project5Gonzales\bin\Debug\net10.0-windows\Project5Gonzales.runtimeconfig.json
+C:\Users\porfe\source\repos\Solution5Gonzales\Project5Gonzales\bin\Debug\net10.0-windows\Project5Gonzales.dll
+C:\Users\porfe\source\repos\Solution5Gonzales\Project5Gonzales\bin\Debug\net10.0-windows\Project5Gonzales.pdb
+C:\Users\porfe\source\repos\Solution5Gonzales\Project5Gonzales\obj\Debug\net10.0-windows\Project5Gonzales.frmChoices.resources
+C:\Users\porfe\source\repos\Solution5Gonzales\Project5Gonzales\obj\Debug\net10.0-windows\Project5Gonzales.csproj.GenerateResource.cache
+C:\Users\porfe\source\repos\Solution5Gonzales\Project5Gonzales\obj\Debug\net10.0-windows\Project5Gonzales.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\porfe\source\repos\Solution5Gonzales\Project5Gonzales\obj\Debug\net10.0-windows\Project5Gonzales.AssemblyInfoInputs.cache
+C:\Users\porfe\source\repos\Solution5Gonzales\Project5Gonzales\obj\Debug\net10.0-windows\Project5Gonzales.AssemblyInfo.cs
+C:\Users\porfe\source\repos\Solution5Gonzales\Project5Gonzales\obj\Debug\net10.0-windows\Project5Gonzales.csproj.CoreCompileInputs.cache
+C:\Users\porfe\source\repos\Solution5Gonzales\Project5Gonzales\obj\Debug\net10.0-windows\Project5Gonzales.dll
+C:\Users\porfe\source\repos\Solution5Gonzales\Project5Gonzales\obj\Debug\net10.0-windows\refint\Project5Gonzales.dll
+C:\Users\porfe\source\repos\Solution5Gonzales\Project5Gonzales\obj\Debug\net10.0-windows\Project5Gonzales.pdb
+C:\Users\porfe\source\repos\Solution5Gonzales\Project5Gonzales\obj\Debug\net10.0-windows\Project5Gonzales.genruntimeconfig.cache
+C:\Users\porfe\source\repos\Solution5Gonzales\Project5Gonzales\obj\Debug\net10.0-windows\ref\Project5Gonzales.dll
